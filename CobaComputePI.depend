@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583131819 source:/home/mpuhambyah/Desktop/CobaComputePI/main.c
+	<math.h>
+	<mpi/mpi.h>
+
